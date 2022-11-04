@@ -13,6 +13,13 @@
         border: 2px solid #bbb;
         padding: 10px;
     }
+
+    td {
+        height: 40px;
+        width: 80px;
+        text-align: center;
+        vertical-align: middle;
+    }
     </style>
 </head>
 
